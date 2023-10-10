@@ -1,0 +1,38 @@
+.image {
+    width: 170px;
+    height: 200px;
+    border-radius: 70px;
+    padding: 25px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+.name {
+    text-align: center;
+}
+
+table,
+tr {
+    border: 1px solid black;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    background-color: rgb(184, 179, 179);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.cv {
+    padding: 15px;
+    border: 1px double black;
+    margin: 20px;
+}
+
+.content {
+    padding-left: 15px;
+}
